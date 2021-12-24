@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Ashcheulov Mikhail
+ * @author Ashcheulov Mikhail & Kravtcov Timofey
  */
 public class MyAwesomeClassLoader extends ClassLoader {
     private final HashMap<String, Class<?> > cash;

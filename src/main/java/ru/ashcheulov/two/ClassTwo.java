@@ -5,7 +5,7 @@ import ru.ashcheulov.one.InterfaceOne;
 
 /**
  *
- * @author Ashcheulov Mikhail
+ * @author Ashcheulov Mikhail & Kravtcov Timofey
  */
 public class ClassTwo {
     public void methodWithParam(InterfaceOne c) {

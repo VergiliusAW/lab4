@@ -7,11 +7,9 @@ import ru.ashcheulov.two.ClassTwo;
 
 /**
  *
- * @author Ashcheulov Mikhail
+ * @author Ashcheulov Mikhail & Kravtcov Timofey
  */
 public class MainClass {
-    
-    private MyAwesomeClassLoader clFirst;
     
     public static void main(String... a) {
         MyAwesomeClassLoader myAwesomeClassloader = new MyAwesomeClassLoader();

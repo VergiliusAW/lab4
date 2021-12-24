@@ -2,7 +2,7 @@ package ru.ashcheulov.one;
 
 /**
  *
- * @author michael
+ * @author Ashcheulov Mikhail & Kravtcov Timofey
  */
 public interface InterfaceOne {
    public String printStr ();

@@ -2,7 +2,7 @@ package ru.ashcheulov.one;
 
 /**
  *
- * @author Ashcheulov Mikhail
+ * @author Ashcheulov & Kravtcov Timofey
  */
 public class ClassOne implements InterfaceOne {
     @Override
